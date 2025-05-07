@@ -62,9 +62,4 @@ purebackend/
 - All data and interactions are strictly limited to users from the same college.
 - Proper error handling and authentication middleware included.
 
----
-
-### हिंदी में सारांश
-यह प्रोजेक्ट कॉलेज-आधारित सोशल मीडिया प्लेटफॉर्म के लिए बैकएंड है। इसमें यूज़र, फ्रेंड्स, चैट, पोस्ट, और कॉलेज के अनुसार डेटा सीमित करने की सुविधा है।
-
 --- 
